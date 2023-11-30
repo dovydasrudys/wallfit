@@ -1,0 +1,1 @@
+from .image_resizer import multi_monitor_resize
